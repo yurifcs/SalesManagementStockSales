@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Button?>
+
+<GridPane
+          xmlns:fx="http://javafx.com/fxml"
+          fx:controller="com.example.salesmanagement.controller.EntradaEstoqueController">
+<!--          fx:controller="com.example.salesmanagement.GerenciamentoEstoqueController"-->
+          alignment="center"
+          hgap="10"
+          vgap="10"
+          padding="20">
+    <Label text="Nome do produto:" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+    <TextField fx:id="txtNomeProduto" GridPane.columnIndex="1" GridPane.rowIndex="0" />
+
+    <Label text="Quantidade:" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+    <TextField fx:id="txtQuantidade" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+
+    <Label text="Data:" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+    <TextField fx:id="txtData" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+
+    <Button text="Salvar" onAction="#salvarEntrada" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+</GridPane>

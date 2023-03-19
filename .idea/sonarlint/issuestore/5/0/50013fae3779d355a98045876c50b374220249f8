@@ -1,0 +1,14 @@
+
+Š
+java:S4165("hRemove this useless assignment; "quantidade" already holds the assigned value along all execution paths.(†ôšşÿÿÿÿ8ÑÆ¸¿ï0
+‡
+java:S4165'"eRemove this useless assignment; "produto" already holds the assigned value along all execution paths.(›˜Şİøÿÿÿÿ8ÑÆ¸¿ï0
+]	java:S125)"<This block of commented-out lines of code should be removed.(ùëêûÿÿÿÿ8Ç¡ç¿ï0
+H
+java:S11681"+Return an empty collection instead of null.(¥¹ï8ÖåÚ¾ï0
+V
+java:S34006"9Remove this method and declare a constant for this value.(”·³›8øŒÚ¾ï0
+k
+java:S11724"IRemove these unused method parameters "produto", "dataInicio", "dataFim".(†Õï ıÿÿÿÿ8“§·¿ï0
+Q
+java:S1656("/Remove or correct this useless self-assignment.(†ôšşÿÿÿÿ8ÑÆ¸¿ï0

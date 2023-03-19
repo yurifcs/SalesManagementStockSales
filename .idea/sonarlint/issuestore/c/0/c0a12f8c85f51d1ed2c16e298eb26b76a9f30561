@@ -1,0 +1,27 @@
+
+~
+java:S1192"aDefine a constant instead of duplicating this literal "--------------------------------" 3 times.(òÔÇÍ8õÑà¾ï0
+g
+java:S1192"JDefine a constant instead of duplicating this literal "Produto: " 3 times.(˜§ïû8õÑà¾ï0
+i
+java:S1192"MDefine a constant instead of duplicating this literal "Quantidade: " 3 times.(Ñ·êZ8„Òà¾ï0
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ë›¢×
+j	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»—Æ÷8ÃÒà¾ï0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—ûÖ8ÃÒà¾ï0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜§ïû8ÃÒà¾ï0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ·êZ8ÃÒà¾ï0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹¿Ã¿ùÿÿÿÿ8ÓÒà¾ï0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(òÔÇÍ8ÓÒà¾ï0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÇÎ÷8ÓÒà¾ï0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(íıµ®8ÓÒà¾ï0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŞïµÌ8ÓÒà¾ï0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(À†8ÓÒà¾ï0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(íÀÊåûÿÿÿÿ8ÓÒà¾ï0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(òÔÇÍ8ÓÒà¾ï0
+o	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒºõËÿÿÿÿÿ8âÒà¾ï0
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(¦Ğøøÿÿÿÿ8âÒà¾ï0
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¯¿ûÿÿÿÿ8âÒà¾ï0
+U	java:S106."9Replace this use of System.out or System.err by a logger.(œ£„å8âÒà¾ï0
+T	java:S106/"9Replace this use of System.out or System.err by a logger.(®áÈ 8âÒà¾ï0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(òÔÇÍ8âÒà¾ï0
