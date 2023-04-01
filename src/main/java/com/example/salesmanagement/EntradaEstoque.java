@@ -5,7 +5,6 @@ import java.util.List;
 
 public class EntradaEstoque {
 
-
     private Produto produto;
     private int quantidade;
     private LocalDate data;

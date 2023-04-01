@@ -46,14 +46,46 @@ public class GerenciamentoEstoqueController {
 
 
 
+
+//    public void abrirTelaEntradaEstoque() throws IOException {
+//        Parent root = FXMLLoader.load(getClass().getResource("entradaEstoque.fxml"));
+//        Scene scene = new Scene(root, 400, 300);
+//        Stage stage = new Stage();
+//        stage.setScene(scene);
+//        stage.show();
+//    }
+
+//    @FXML
+//    public void abrirTelaEntradaEstoque() throws IOException {
+//        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("entradaEstoque.fxml"));
+//        Parent root = fxmlLoader.load();
+//        Scene scene = new Scene(root, 400, 300);
+//        Stage stage = new Stage();
+//        stage.setScene(scene);
+//        stage.show();
+//    }
+
+//    @FXML
+//    public void abrirTelaEntradaEstoque() throws IOException {
+//        FXMLLoader fxmlLoader = new FXMLLoader(GerenciamentoEstoqueApplication.class.getResource("entradaEstoque.fxml"));
+//        Parent root = fxmlLoader.load();
+//        Scene scene = new Scene(root, 400, 300);
+//        Stage stage = new Stage();
+//        stage.setScene(scene);
+//        stage.show();
+//    }
+
     @FXML
-    private void abrirTelaEntradaEstoque() throws IOException {
-        Parent root = FXMLLoader.load(getClass().getResource("tela_entrada_estoque.fxml"));
+    public void abrirTelaEntradaEstoque() throws IOException {
+        FXMLLoader fxmlLoader = new FXMLLoader(GerenciamentoEstoqueApplication.class.getResource("/com/example/salesmanagement/entradaEstoque.fxml"));
+        Parent root = fxmlLoader.load();
         Scene scene = new Scene(root, 400, 300);
         Stage stage = new Stage();
         stage.setScene(scene);
         stage.show();
     }
+
+
 
 
     @FXML

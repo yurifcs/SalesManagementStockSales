@@ -1,10 +1,17 @@
 package com.example.salesmanagement.controller;
 
 import com.example.salesmanagement.EntradaEstoque;
+import com.example.salesmanagement.GerenciamentoEstoqueApplication;
 import com.example.salesmanagement.Produto;
+import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
 import javafx.scene.control.TextField;
+import javafx.stage.Stage;
 
+import java.io.IOException;
 import java.time.LocalDate;
 
 public class EntradaEstoqueController {
@@ -30,4 +37,6 @@ public class EntradaEstoqueController {
 
         entrada.registrarEntrada();
     }
+
+
 }
